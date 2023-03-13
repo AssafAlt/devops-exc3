@@ -1,7 +1,7 @@
 public class Assaf {
     public static void main(String[] args) {
         for (int i = 1; i <= 10; i++) {
-            System.out.println("Assaf " + i);
+            System.out.println("Assaf Alt " + i);
         }
     }
 }
